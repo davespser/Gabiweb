@@ -13,11 +13,11 @@ import './App.css';
 
 // Configuración de la relación
 const CONFIG = {
-  myName: 'Alex',
-  partnerName: 'Sam',
-  myLocation: 'Madrid, España',
-  partnerLocation: 'Buenos Aires, Argentina',
-  startDate: new Date('2023-06-15'), // Fecha de inicio de la relación
+  myName: 'David',
+  partnerName: 'Gabi',
+  myLocation: 'Cartagena, España',
+  partnerLocation: 'torrevieja, España',
+  startDate: new Date('2026-01-02'), // Fecha de inicio de la relación
 };
 
 // Fotos de ejemplo para la galería
